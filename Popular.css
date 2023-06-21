@@ -20,6 +20,11 @@
     content: "/"; 
   }
 
+.breadcrumb a {
+    background-color: inherit;
+    display: inline;
+}
+
 
 
 /* Popular */
