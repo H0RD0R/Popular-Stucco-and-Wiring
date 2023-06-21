@@ -23,6 +23,14 @@
 .breadcrumb a {
     background-color: inherit;
     display: inline;
+    color: aliceblue;
+    text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
+  color: red;
+  cursor: pointer;
 }
 
 
